@@ -135,18 +135,20 @@ img.heyhowareya{
     
 }
 .sub1 {
-      max-width: 100%;
-  color: #112F41;
-  font-size: 1.1em;
-  font-style: italic;
+background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
 }
 
 
 .sub2 {
-      max-width: 100%;
-  color: #112F41;
-  font-size: 1.1em;
-  font-style: italic;
+     background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
 }
 
 img.nosepic{
@@ -174,19 +176,18 @@ img.layingout{
 }
 
 .sub3 {
-      max-width: 100%;
-  color: #112F41;
-  font-size: 1.1em;
-  font-style: italic;
+  background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+
 }
-
-
 
 .footer {
     position: relative;
     bottom: 0px;
     color: #278760;
-;
-    width: 100%;
+    1width: 100%;
     text-align: center;
 }
