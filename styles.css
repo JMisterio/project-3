@@ -61,7 +61,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #112F41;
+  background-color: #278760;
   color: white;
 }
 
@@ -94,6 +94,18 @@ img.my-picture {
   margin: 0px;
 }
 
+
+.about-me {
+  padding: 2.5em;
+}
+
+.about-content {
+    border-left: 1px solid #DFEAF1;
+    padding-left: 3rem;
+}
+
+
+
 .my-name {
   color: #f22323;
   font-size: 1.6rem;
@@ -110,20 +122,72 @@ img.my-picture {
     text-transform: uppercase;
 }
 
-.about-me {
-  padding: 2.5em;
+img.heyhowareya{
+     display: block;
+  margin: 0 auto 2em;
+    float: none;
+  /*max-width: 100%;*/
+  float: none;
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid white;
+  border-radius: 50%;
+    
+}
+.sub1 {
+background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
 }
 
-.about-content {
-    border-left: 1px solid #DFEAF1;
-    padding-left: 3rem;
+
+.sub2 {
+     background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+img.nosepic{
+     display: block;
+  margin: 0 auto 2em;
+  /*max-width: 100%;*/
+    float: none;
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid white;
+  border-radius: 50%;
+    
+}
+
+img.layingout{
+     display: block;
+  margin: 0 auto 2em;
+  /*max-width: 100%;*/
+    float: none;
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid white;
+
+    
+}
+
+.sub3 {
+  background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+
 }
 
 .footer {
     position: relative;
     bottom: 0px;
-    color: #112F41;
-;
-    width: 100%;
+    color: #278760;
+    1width: 100%;
     text-align: center;
 }
